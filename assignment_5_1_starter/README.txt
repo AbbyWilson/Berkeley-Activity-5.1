@@ -4,7 +4,7 @@
 The problem that we wanted to investigate was what hypothesis we can find about drivers who accepted a coffee house coupon. Below, there are some interesting visualizations that I used to find specific features and then dig into those further with calculations.
 
 
-Link to Jupyter Notebook: 
+Link to Jupyter Notebook: https://github.com/AbbyWilson/Berkeley-Activity-5.1/blob/main/assignment_5_1_starter/prompt.ipynb
 
 
 Process & Visualizations:

@@ -25,7 +25,7 @@ Problem Statement:
 
 The problem that we wanted to investigate was what hypothesis we can find about drivers who accepted a coffee house coupon.
 
-Link to Jupyter Notebook: https://github.com/AbbyWilson/Berkeley-Activity-5.1/blob/main/assignment_5_1_starter/prompt.ipynb
+Link to Jupyter Notebook: https://github.com/AbbyWilson/Berkeley-Activity-5.1/blob/main/Final%20Project/prompt.ipynb
 
 
 Process & Visualizations:

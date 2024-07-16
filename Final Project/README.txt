@@ -1,3 +1,5 @@
+Visualizations: All general visualizations can be found in the 'data visualizations/' folder. 
+
 Bar Coupons Overview:
 
 Problem statement: We want to find hypothesis about drivers who accepted the bar coupon.
@@ -35,7 +37,7 @@ Based on what I know about Coffee Houses, I chose some columns that I think may 
 * Been to coffee house before (CoffeeHouse)
 
 
-You can see all of the corresponding histograms in the ‘data visualizations’ folder. From looking at these visualizations, I had a few findings that are all included inline in the jupyter notebook. For ease of reading, I will not include those all here, but the important part was that these data visualizations helped me select 4 groups to focus on: 
+You can see all of the corresponding histograms in the ‘data visualizations/Coffee House’ folder. From looking at these visualizations, I had a few findings that are all included inline in the jupyter notebook. For ease of reading, I will not include those all here, but the important part was that these data visualizations helped me select 4 groups to focus on: 
 
 
 * Going to no urgent place + having friends in the car vs. all others
